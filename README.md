@@ -4,6 +4,8 @@
 
 数据来自 [openhongguo](https://github.com/beilunyang/openhongguo)（第三方短剧平台的非官方 SDK，匿名设备、无需登录）。请仅用于个人学习与研究，内容版权归权利人所有。
 
+> 本仓库最初 fork 自 [frostming/dsh-hongguo](https://github.com/frostming/dsh-hongguo)，现在独立维护；旧的 fork 仓库已归档为 [radish999/dsh-hongguo-archive](https://github.com/radish999/dsh-hongguo-archive)。
+
 ## 安装
 
 ```bash
